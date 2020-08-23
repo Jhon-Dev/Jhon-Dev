@@ -26,9 +26,9 @@ Bom eu atualmente faço faculdade de Ciência da Computação e também tenho ad
 
 
 ### Estudando 📖
-![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=flat-square&logo=react&logoColor=white)
+
+![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
+
 
 
 
