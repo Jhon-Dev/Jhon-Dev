@@ -23,7 +23,7 @@ Bom eu atualmente faço faculdade de Ciência da Computação e também tenho ad
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![IntellijIDEA](https://img.shields.io/badge/-IntellijIDEA-C83C76?style=flat-square&logo=intellij-idea&logoColor=white)
+
 
 ### Estudando 📖
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
