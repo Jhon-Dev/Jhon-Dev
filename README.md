@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhonatan.nuss082897@gmail.com)](honatan.nuss082897@gmail.com)
 
 
-### Seja bem vindo ao meu Repositório! Aqui tenho arquivado diariamente meus estudos e projetos.
+### Aqui tenho arquivado diariamente meus estudos e projetos.
 
 <details>
 <summary> <b> SOBRE MIM </b> <i>(Clique aqui para expandir)</i> </summary>
