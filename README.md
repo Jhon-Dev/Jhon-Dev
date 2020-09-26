@@ -31,8 +31,6 @@ Atualmente faço faculdade de Ciência da Computação na Cruzeiro do sul, tenho
 
 
 
-![](https://vistr.dev/badge?repo=https://github.com/Jhon-Dev)
-
 
 
 
