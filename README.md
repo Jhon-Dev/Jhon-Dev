@@ -12,7 +12,7 @@
   
 ### 📖 Sobre mim
 
-Bom eu atualmente faço faculdade de Ciência da Computação na Cruzeiro do sul, tenho aderido conhecimentos também atraves de diversos cursos, buscando a minha evolução dia após dia para me tornar um profissional reconhecido e confiavel no mercado.
+Atualmente faço faculdade de Ciência da Computação na Cruzeiro do sul, tenho aderido conhecimentos também atraves de diversos cursos, buscando a minha evolução dia após dia para me tornar um profissional reconhecido e confiavel no mercado.
 
 </details>
 
