@@ -1,4 +1,4 @@
-#   Hi😃
+#  Ei 👋, Eu sou Jhonatan Nuss
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatan-nuss/)](https://www.linkedin.com/in/jhonatan-nuss/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jhonuss_/)](https://www.instagram.com/jhonuss_/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522988498559!)](https://api.whatsapp.com/send?phone=5522988498559!)
