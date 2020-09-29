@@ -16,7 +16,6 @@ Atualmente faço faculdade de Ciência da Computação na Cruzeiro do sul, tenho
 
 </details>
 
-###  Desenvolvendo 💻 
 ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
@@ -25,12 +24,6 @@ Atualmente faço faculdade de Ciência da Computação na Cruzeiro do sul, tenho
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 
-### Estudando 📖
-
-![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
-
-
-
-
+![jhondev's github stats](https://github-readme-stats.vercel.app/api?username=jhondev&show_icons=true&theme=dracula)
 
 
