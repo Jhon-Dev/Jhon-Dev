@@ -24,6 +24,6 @@ Atualmente faço faculdade de Ciência da Computação na Cruzeiro do sul, tenho
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 
-![jhondev's github stats](https://github-readme-stats.vercel.app/api?username=jhondev&show_icons=true&theme=dracula)
+![Jhon-Dev's github stats](https://github-readme-stats.vercel.app/api?username=Jhon-Dev&show_icons=true&theme=dracula)
 
 
