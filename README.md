@@ -11,7 +11,7 @@
   
 ### Sobre mim
 
-Atualmente faço faculdade de Ciência da Computação na Cruzeiro do sul, tenho aderido conhecimentos também atraves de diversos cursos, buscando a minha evolução dia após dia para me tornar um profissional reconhecido e confiavel no mercado.
+Atualmente faço faculdade de Ciência da Computação na Cruzeiro do sul, tenho aderido conhecimentos também atraves de diversos cursos, buscando a minha evolução dia após dia para me tornar um profissional reconhecido e confiavel no mercado, eu amo desenvolvimento, criar coisas novas e ajudar a resolver, e gosto de pesquisar todos os aspectos envolvidos, incluindo acessibilidade e otimização de sites, como aumentar a velocidade da página
 </details>
 
 ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
