@@ -13,7 +13,7 @@
 
 Atualmente cursando 4º Periodo de Ciência da Computação,
 tenho me empenhado fortemente na KAYA 
-agência onde atuo hoje como Desenvolvedor web, 
+agência onde atuo hoje como Desenvolvedor web, e trabalhando como freelancer para o Pastor André Fernandes!
 nesse tempo, venho aderindo grande conhecimento desenvolvendo vários e-commerces, sites institucionais, landing page, sitemas e outros.
 tenho buscado por vários cursos onde eu possa me capacitar ainda mais,
 buscando a minha evolução dia após dia para me tornar um profissional reconhecido e confiavel no mercado, 
