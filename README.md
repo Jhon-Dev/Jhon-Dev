@@ -1,8 +1,8 @@
 #  Olá 👋, Sou Jhonatan Nuss
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatan-nuss/)](https://www.linkedin.com/in/jhonatan-nuss/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jhonuss_/)](https://www.instagram.com/jhonuss_/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522988498559!)](https://api.whatsapp.com/send?phone=5522988498559!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhonatan.nuss082897@gmail.com)](honatan.nuss082897@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatan-nuss/)](https://www.linkedin.com/in/jhonatan-nuss/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jhonuss_/)](https://www.instagram.com/jhonuss_/)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522988498559!)](https://api.whatsapp.com/send?phone=5522988498559!)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-square&logo=gmail&logoColor=white&link=mailto:contato@jhonatanuss.dev)](contato@jhonatanuss.dev)
 
 ### Aqui tenho arquivado diariamente meus estudos e projetos.
 
@@ -22,12 +22,15 @@ gosto sempre de estar com minha família meu dog, e meus amigos <3
 </details>
 
   
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-square&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-square&logo=postgresql&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-square&logo=Apache%20Maven&logoColor=white)
+
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-square&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-square&logo=javascript&logoColor=%23F7DF1E)
 
 
 ![Jhon-Dev's github stats](https://github-readme-stats.vercel.app/api?username=Jhon-Dev&show_icons=true&theme=dracula)
