@@ -11,9 +11,9 @@
   
 ### Sobre mim
 
-Atualmente cursando 5º Periodo de Ciência da Computação,
+Atualmente cursando 6º Periodo de Ciência da Computação,
 tenho me empenhado fortemente na KAYA 
-agência onde atuo hoje como Desenvolvedor web, e trabalhando como freelancer para o Pastor André Fernandes de Miami!
+agência onde atuo hoje como Desenvolvedor FullStack, e trabalhando como freelancer para o Pastor André Fernandes de Miami!
 nesse tempo, venho aderindo grande conhecimento desenvolvendo vários e-commerces, sites institucionais, landing page, sitemas e outros.
 tenho buscado por vários cursos onde eu possa me capacitar ainda mais,
 buscando a minha evolução dia após dia para me tornar um profissional reconhecido e confiavel no mercado, 
@@ -21,10 +21,12 @@ gosto de passar meu tempo estudando, desenvolvendo coisas novas e ajudando com t
 gosto sempre de estar com minha família meu dog, e meus amigos <3
 </details>
 
-![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
+  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
 
