@@ -4,6 +4,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522988498559!)](https://api.whatsapp.com/send?phone=5522988498559!)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-square&logo=gmail&logoColor=white&link=mailto:contato@jhonatanuss.dev)](mailto:contato@jhonatanuss.dev)
 
+![alt text](https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif)
 ### Aqui tenho arquivado diariamente meus estudos e projetos.
 
 <details>
@@ -19,6 +20,8 @@ buscando a minha evolução dia após dia para me tornar um profissional reconhe
 gosto de passar meu tempo estudando, desenvolvendo coisas novas e ajudando com todo conhecimento e experiências que tenho adquirido,
 gosto sempre de estar com minha família meu dog, e meus amigos <3
 </details>
+  
+  ![alt text](https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif)
 
   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-square&logo=java&logoColor=white)
