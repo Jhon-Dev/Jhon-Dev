@@ -21,7 +21,6 @@ gosto de passar meu tempo estudando, desenvolvendo coisas novas e ajudando com t
 gosto sempre de estar com minha família meu dog, e meus amigos <3
 </details>
   
-  ![alt text](https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif)
 
   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-square&logo=java&logoColor=white)
