@@ -5,7 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-square&logo=gmail&logoColor=white&link=mailto:contato@jhonatanuss.dev)](mailto:contato@jhonatanuss.dev)
 
 ![alt text](https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif)
-### Aqui tenho arquivado diariamente meus estudos e projetos.
 
 <details>
 <summary> <b> SOBRE MIM </b> <i>(Clique aqui para expandir)</i> </summary>
