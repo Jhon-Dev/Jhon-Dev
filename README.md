@@ -15,7 +15,7 @@ Atualmente cursando 6º Periodo de Ciência da Computação,
 trabalho hoje como Desenvolvedor Java, venho aderindo grande conhecimento e sempre buscado por vários cursos onde eu possa me capacitar ainda mais,
 buscando a minha evolução dia após dia para me tornar um profissional reconhecido e confiavel no mercado, 
 gosto de passar meu tempo estudando, desenvolvendo coisas novas e ajudando com todo conhecimento e experiências que tenho adquirido,
-gosto sempre de estar com minha família meu dog, e meus amigos <3
+gosto sempre de estar com minha família meu dog, e meus amigos!
 </details>
   
 
