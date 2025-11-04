@@ -1,8 +1,9 @@
-#  Olá 👋, Sou Jhonatan Nuss
+# 👋 Olá, sou Jhonatan Nuss
+
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatan-nuss/)](https://www.linkedin.com/in/jhonatan-nuss/)
-[![Instagram Badge]([https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jhonuss_/)](https://www.instagram.com/jhonuss_/](https://www.instagram.com/nussdev/)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522988498559!)](https://api.whatsapp.com/send?phone=5522988498559!)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-square&logo=gmail&logoColor=white&link=mailto:contato@jhonatanuss.dev)](mailto:contato@jhonatanuss.dev)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-square&logo=instagram&logoColor=white)](https://www.instagram.com/nussdev/)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5522988498559)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-square&logo=gmail&logoColor=white)](mailto:contato@jhonatanuss.dev)
 
 ![alt text](https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif)
 
