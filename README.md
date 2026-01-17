@@ -7,17 +7,6 @@
 
 ![alt text](https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif)
 
-<details>
-<summary> <b> SOBRE MIM </b> <i>(Clique aqui para expandir)</i> </summary>
-  
-### Sobre mim
-
-Formado em Ciência da Computação,
-trabalho hoje como Desenvolvedor Java, venho aderindo grande conhecimento e sempre buscado por vários cursos onde eu possa me capacitar ainda mais,
-buscando a minha evolução dia após dia para me tornar um profissional reconhecido e confiavel no mercado, 
-gosto de passar meu tempo estudando, desenvolvendo coisas novas e ajudando com todo conhecimento e experiências que tenho adquirido,
-gosto sempre de estar com minha família meu dog, e meus amigos!
-</details>
   
 
   
