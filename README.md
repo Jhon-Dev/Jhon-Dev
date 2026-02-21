@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou o Jhon
-
 Sou **Desenvolvedor Full Stack**, com foco em **Back-end e sistemas escaláveis**, atuando principalmente com **Java/Spring** e **Node.js**, além de experiência sólida em **front-end moderno**.
 
 Gosto de criar soluções bem estruturadas, com atenção à arquitetura, performance e experiência do usuário.
